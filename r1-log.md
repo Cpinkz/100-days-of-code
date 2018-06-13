@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Charlotte]
 
 The log of my #100DaysOfCode challenge. Started on [June 12, Tuesday, 2018].
 

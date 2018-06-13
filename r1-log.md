@@ -9,3 +9,5 @@ Write code about password access, easy one, for 4-5 lines.
 I'm a newbie here :)
 
 ### R1D2
+- Learn Basic HTML and HTML5 on Freecodecamp. Just starting.
+- Explore Github

@@ -15,3 +15,8 @@ I'm a newbie here :)
 ### R1D3
 - Play around Java code
 - Conrinue Basic HTML and HTML5 on freecodecamp.org
+
+### R1D4
+- Solved 2 problems on Codingbat
+- Solved 1st problem on Codeabbey
+- Explore Github
